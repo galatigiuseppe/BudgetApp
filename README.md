@@ -3,4 +3,4 @@ Budget App built with Vanilla JS
 
 #Planning
 
-![alt text]()
+![alt text](https://github.com/galatigiuseppe/BudgetApp/blob/master/plan2.png)
